@@ -32,11 +32,13 @@ html {
 	background-color: GhostWhite;
 	padding: 5px;
 	margin: 5px;
+	font-size: 11px;
 }
 
 #header {
 	text-align:right;
 	margin-right: 20px;
+	font-size: 13px;
 
 }
 li {
@@ -47,16 +49,19 @@ li {
 }
 
 #footer {
-	background-color: GhostWhite;
+	background-color: #f2f2f2;
 	position: fixed;
 	bottom: 0px;
 	width: 100%;
-	
+	font-size: 13px;
+	border-top: 1px solid #e4e4e4;
+	color: rgb(102, 102, 102);
 	
 }
 
 #left_footer {
 	float:left;
+	
 }
 
 #right_footer {
